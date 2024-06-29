@@ -24,15 +24,8 @@
     "url": "mailto:1144028193@qq.com"
   },
   {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/"
+    "name": "Wechat",
+    "icon": "/images/icon/wechat.png",
+    "tip": "微信号：Yusakie",
   }
 ]
