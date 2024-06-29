@@ -2,25 +2,25 @@
   {
     "name": "Github",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
+    "tip": "我的 Github",
     "url": "https://github.com/yusakie"
   },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
+    "tip": "B站搜索 茶曦_Yuse",
     "url": "https://space.bilibili.com/11420685"
   },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
+    "tip": "QQ：1144028193",
     "url": "https://res.abeim.cn/api/qq/?qq=1144028193"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
+    "tip": "1144028193@QQ.COM",
     "url": "mailto:1144028193@qq.com"
   },
   {
