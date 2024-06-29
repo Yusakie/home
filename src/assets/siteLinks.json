@@ -5,24 +5,14 @@
     "link": "https://blog.yusakie.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.yusakie.top/"
+    "icon": "Book",
+    "name": "摄影作品集",
+    "link": "https://pic.yusakie.top/"
   },
-  {
+/*  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.yusakie.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.yusakie.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.yusakie.top/"
   },
   {
     "icon": "Fire",
@@ -33,5 +23,15 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.yusakie.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.yusakie.top/"
+  },*/
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.yusakie.top/"
   }
 ]
